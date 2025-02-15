@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Enunciado 1: Clasificacion de edad"
+
+echo "Usaria la estructura if-else ya que involucra rangos de valores" 
+
+echo "Enunciado 2: Dia de la semanac"
+
+echo "Usaria la estructura switch ya que los dias de la semana estan 
+representados por valores especificos"
+
+echo "Enunciado 3: Verificacion de acceso"
+
+echo "Usaria de nuevo la estructura if-else ya que se evaluan multiples 
+condiciones logicas"
